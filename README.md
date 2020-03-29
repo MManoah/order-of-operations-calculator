@@ -4,7 +4,8 @@ This calculator was made with Java and solves equations while following the orde
 
 ## Project Overview
 
-![](https://i.gyazo.com/34c212a46786efc3bb6320aabb286c0b.gif)
+![](https://i.gyazo.com/39ea5d13d62aecd232e3727f26fac69f.gif)
+![](https://i.gyazo.com/8d3715cb49e863b37075b12a1e21e5bd.gif)
 
 ## Built With
 
