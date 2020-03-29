@@ -4,7 +4,7 @@ This caluclator was made with Java and solves equations while following the orde
 
 ## Project Overview
 
-![](https://i.gyazo.com/6292e6ec349c1aa51b124980513b9941.png)
+![](https://i.gyazo.com/f552970627dd494a5c37812beeaa3e43.png)
 
 ## Built With
 
