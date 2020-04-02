@@ -1,6 +1,6 @@
 # Java Calculator
 
-This calculator was made with Java and solves equations while following the order of operations
+This calculator was made with Java and solves equations while following the order of operations using a stack
 
 ## Project Overview
 
